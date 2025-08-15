@@ -1,0 +1,8 @@
+This file lists all the Python packages required to run this project.
+It ensures that anyone who wants to run or replicate the notebook has the same environment and dependencies.
+
+pandas
+numpy
+matplotlib
+xgboost
+scikit-learn
